@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[第一篇博客]]></title>
+    <url>%2F2018%2F10%2F14%2F%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[开篇的话第一篇博客试水啦，开心。自从小学记过日记之后，很久没对生活总结过了。那时候的日记是一本流水账，比如说什么“今天我帮妈妈洗碗了啊”等等，里面的错别字被爸妈念叨了好久。心里面一直抗拒着写这种东西。时过境迁，已经到了人生时不时要复盘的关头。往日走过的错路，现在想想依然心有不甘，希望自己未来不要继续犯下之前的错。因而就萌生了开博客的想法。生活上，工作上，自己都有需要总结的东西，太多太多。将这篇博客献给我过去走过的路。希望个人博客的开篇，是人生一个新的起点。不忘初心，方得始终。文章的配图是我喜欢的人物——桔梗，外表虽然柔弱但不失坚强。 致谢文章的最后，感谢Gustave手把手教我搭建博客。谢谢对我一直以来的关照。]]></content>
+      <categories>
+        <category>开篇的话</category>
+      </categories>
+      <tags>
+        <tag>开篇</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F10%2F13%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>基本操作</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+</search>
